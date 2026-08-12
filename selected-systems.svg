@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+  <title id="title">SPYLEAN Selected Projects</title>
+  <desc id="desc">Four selected projects built from real problems: KANNU, VenuePulse AI, Startup Validator and CFORGE.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0E0A15"/><stop offset="1" stop-color="#120B1E"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1C1627"/><stop offset="1" stop-color="#130E1C"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8B5CF6"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#3A2B4A" opacity=".2"/></pattern>
+  </defs>
+  <rect width="1280" height="520" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="518" rx="19" fill="none" stroke="#3B2C4E" stroke-width="2"/>
+  <rect x="1" y="1" width="1278" height="518" rx="19" fill="url(#grid)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="34" y="39" fill="#C084FC" font-size="10" font-weight="700" letter-spacing="3">01 — SELECTED PROJECTS / PROBLEM → PRODUCT</text>
+    <text x="34" y="72" fill="#EDECE8" font-size="28" font-weight="900" letter-spacing="2">PROJECTS THAT SOLVE SOMETHING.</text>
+    <text x="1013" y="69" fill="#84798E" font-size="9" font-weight="700" letter-spacing="2">BUILT FROM REAL PROBLEMS</text>
+
+    <g transform="translate(34 102)">
+      <rect width="594" height="177" rx="14" fill="url(#card)" stroke="#4A3860"/>
+      <rect width="5" height="177" rx="2.5" fill="url(#accent)"/>
+      <text x="24" y="31" fill="#C084FC" font-size="9" font-weight="700" letter-spacing="2.4">01 / CRIME INTELLIGENCE</text>
+      <circle cx="552" cy="27" r="5" fill="#34D399"/><text x="466" y="31" fill="#958B9E" font-size="8" font-weight="700" letter-spacing="1.4">SYSTEM LIVE</text>
+      <text x="24" y="67" fill="#EDECE8" font-size="22" font-weight="900">KANNU</text>
+      <text x="24" y="91" fill="#BDB4C5" font-size="12">AI-assisted police command, case intelligence and spatial-risk platform.</text>
+      <g transform="translate(24 116)" font-size="9" font-weight="700">
+        <rect width="72" height="26" rx="7" fill="#261A36" stroke="#5C3F80"/><text x="13" y="17" fill="#D8B4FE">NEXT.JS</text>
+        <rect x="82" width="62" height="26" rx="7" fill="#261A36" stroke="#5C3F80"/><text x="97" y="17" fill="#D8B4FE">GEMINI</text>
+        <rect x="154" width="64" height="26" rx="7" fill="#261A36" stroke="#5C3F80"/><text x="169" y="17" fill="#D8B4FE">PYTHON</text>
+        <rect x="228" width="62" height="26" rx="7" fill="#261A36" stroke="#5C3F80"/><text x="244" y="17" fill="#D8B4FE">SQLITE</text>
+      </g>
+      <text x="479" y="152" fill="#C084FC" font-size="9" font-weight="700" letter-spacing="1.6">VIEW SYSTEM ↗</text>
+    </g>
+
+    <g transform="translate(652 102)">
+      <rect width="594" height="177" rx="14" fill="url(#card)" stroke="#4A3860"/>
+      <rect width="5" height="177" rx="2.5" fill="#22D3EE"/>
+      <text x="24" y="31" fill="#67E8F9" font-size="9" font-weight="700" letter-spacing="2.4">02 / CROWD OPERATIONS</text>
+      <circle cx="552" cy="27" r="5" fill="#34D399"/><text x="466" y="31" fill="#958B9E" font-size="8" font-weight="700" letter-spacing="1.4">SYSTEM LIVE</text>
+      <text x="24" y="67" fill="#EDECE8" font-size="22" font-weight="900">VENUEPULSE AI</text>
+      <text x="24" y="91" fill="#BDB4C5" font-size="12">Predictive crowd intelligence, digital twins and safer rerouting workflows.</text>
+      <g transform="translate(24 116)" font-size="9" font-weight="700">
+        <rect width="88" height="26" rx="7" fill="#112830" stroke="#286375"/><text x="11" y="17" fill="#A5F3FC">TYPESCRIPT</text>
+        <rect x="98" width="61" height="26" rx="7" fill="#112830" stroke="#286375"/><text x="113" y="17" fill="#A5F3FC">REACT</text>
+        <rect x="169" width="68" height="26" rx="7" fill="#112830" stroke="#286375"/><text x="184" y="17" fill="#A5F3FC">NODE.JS</text>
+        <rect x="247" width="82" height="26" rx="7" fill="#112830" stroke="#286375"/><text x="259" y="17" fill="#A5F3FC">LANGCHAIN</text>
+      </g>
+      <text x="479" y="152" fill="#67E8F9" font-size="9" font-weight="700" letter-spacing="1.6">VIEW SYSTEM ↗</text>
+    </g>
+
+    <g transform="translate(34 301)">
+      <rect width="594" height="177" rx="14" fill="url(#card)" stroke="#4A3860"/>
+      <rect width="5" height="177" rx="2.5" fill="#F59E0B"/>
+      <text x="24" y="31" fill="#FBBF24" font-size="9" font-weight="700" letter-spacing="2.4">03 / STARTUP INTELLIGENCE</text>
+      <circle cx="552" cy="27" r="5" fill="#34D399"/><text x="466" y="31" fill="#958B9E" font-size="8" font-weight="700" letter-spacing="1.4">SYSTEM LIVE</text>
+      <text x="24" y="67" fill="#EDECE8" font-size="22" font-weight="900">STARTUP VALIDATOR</text>
+      <text x="24" y="91" fill="#BDB4C5" font-size="12">Secure idea validation, lifecycle analytics and popularity scoring engine.</text>
+      <g transform="translate(24 116)" font-size="9" font-weight="700">
+        <rect width="88" height="26" rx="7" fill="#2E2111" stroke="#755520"/><text x="10" y="17" fill="#FDE68A">JAVASCRIPT</text>
+        <rect x="98" width="68" height="26" rx="7" fill="#2E2111" stroke="#755520"/><text x="112" y="17" fill="#FDE68A">EXPRESS</text>
+        <rect x="176" width="62" height="26" rx="7" fill="#2E2111" stroke="#755520"/><text x="192" y="17" fill="#FDE68A">SQLITE</text>
+        <rect x="248" width="66" height="26" rx="7" fill="#2E2111" stroke="#755520"/><text x="265" y="17" fill="#FDE68A">REST API</text>
+      </g>
+      <text x="479" y="152" fill="#FBBF24" font-size="9" font-weight="700" letter-spacing="1.6">VIEW SYSTEM ↗</text>
+    </g>
+
+    <g transform="translate(652 301)">
+      <rect width="594" height="177" rx="14" fill="url(#card)" stroke="#4A3860"/>
+      <rect width="5" height="177" rx="2.5" fill="#34D399"/>
+      <text x="24" y="31" fill="#6EE7B7" font-size="9" font-weight="700" letter-spacing="2.4">04 / FOUNDER-LED STUDIO</text>
+      <circle cx="552" cy="27" r="5" fill="#34D399"/><text x="466" y="31" fill="#958B9E" font-size="8" font-weight="700" letter-spacing="1.4">BUILDING</text>
+      <text x="24" y="67" fill="#EDECE8" font-size="22" font-weight="900">CFORGE</text>
+      <text x="24" y="91" fill="#BDB4C5" font-size="12">Creator collective spanning brands, campaigns, reels and digital experiences.</text>
+      <g transform="translate(24 116)" font-size="9" font-weight="700">
+        <rect width="91" height="26" rx="7" fill="#10271F" stroke="#28624B"/><text x="12" y="17" fill="#A7F3D0">BRAND SYSTEMS</text>
+        <rect x="101" width="109" height="26" rx="7" fill="#10271F" stroke="#28624B"/><text x="113" y="17" fill="#A7F3D0">CREATIVE DIRECTION</text>
+        <rect x="220" width="78" height="26" rx="7" fill="#10271F" stroke="#28624B"/><text x="235" y="17" fill="#A7F3D0">PRODUCTION</text>
+      </g>
+      <text x="478" y="152" fill="#6EE7B7" font-size="9" font-weight="700" letter-spacing="1.6">ENTER CFORGE ↗</text>
+    </g>
+  </g>
+</svg>
