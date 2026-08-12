@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./spylean-banner.svg" width="100%" alt="SPYLEAN — Creative Technologist and Brand Systems Builder" />
+  <img src="./spylean-banner-hd.png" width="100%" alt="SPYLEAN — Creative Technologist and Brand Systems Builder" />
 </p>
 
 <p align="center">
