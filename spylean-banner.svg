@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">SPYLEAN — Creative Technologist and Brand Systems Builder</title>
+  <desc id="desc">A dark technical profile banner with violet accents inspired by the SPYLEAN portfolio.</desc>
+
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="0.55" stop-color="#C084FC"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1C1627"/>
+      <stop offset="1" stop-color="#100B19"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="40%" r="62%">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#3A2D4B" stroke-width="1" opacity="0.32"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" rx="22" fill="#0E0A15"/>
+  <rect x="1" y="1" width="1278" height="358" rx="21" fill="none" stroke="#372B48" stroke-width="2"/>
+  <rect x="1" y="1" width="1278" height="358" rx="21" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1278" height="358" rx="21" fill="url(#glow)"/>
+
+  <path d="M54 73H760" stroke="#4B3A61"/>
+  <path d="M54 289H1226" stroke="#4B3A61"/>
+  <rect x="54" y="50" width="9" height="9" rx="2" fill="#9165E5"/>
+  <text x="78" y="59" fill="#C8BED4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4">00 — PROFILE SYSTEM / GITHUB</text>
+
+  <text x="50" y="197" fill="#EDECE8" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="100" font-weight="900" letter-spacing="8">SPYLEAN</text>
+  <text x="603" y="197" fill="url(#accent)" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="100" font-weight="900">.</text>
+  <text x="57" y="238" fill="#B7AFBF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="5">CREATIVE TECHNOLOGIST × BRAND SYSTEMS BUILDER</text>
+
+  <g transform="translate(842 56)">
+    <rect width="384" height="188" rx="16" fill="url(#panel)" stroke="#4A3960"/>
+    <text x="25" y="35" fill="#C084FC" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="3">CURRENT TRANSMISSION</text>
+    <path d="M25 52H359" stroke="#3E304F"/>
+    <circle cx="31" cy="79" r="5" fill="#34D399"/>
+    <text x="47" y="84" fill="#EDECE8" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">OPEN FOR PROJECTS</text>
+    <text x="25" y="119" fill="#7F7688" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="2.5">FOUNDER</text>
+    <text x="25" y="142" fill="#EDECE8" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">CFORGE</text>
+    <text x="207" y="119" fill="#7F7688" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="2.5">BASE</text>
+    <text x="207" y="142" fill="#EDECE8" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">BANGALORE, INDIA</text>
+    <rect x="25" y="163" width="334" height="3" rx="1.5" fill="#2E243A"/>
+    <rect x="25" y="163" width="213" height="3" rx="1.5" fill="url(#accent)"/>
+  </g>
+
+  <text x="54" y="322" fill="#777080" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2.5">TANVIR ADITYA BAYI</text>
+  <text x="872" y="322" fill="#A79DAD" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2.5">CREATIVE VISION × TECHNICAL EXECUTION</text>
+</svg>
