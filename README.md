@@ -24,20 +24,15 @@ I’m a creative technologist and systems builder from Bangalore. I work where p
 
 Founder of [CFORGE](https://cforge-studio.vercel.app/). Building software, creative systems and experiments in public under the name **SPYLEAN**.
 
-### Current build queue
+### Operations log
 
-| System | Problem being solved | Build signal |
-| --- | --- | --- |
-| [**SamudraNetra**](https://github.com/SPYLEAN/SamudraNetra) | Detecting, tracking and attributing marine oil spills | `Python` `PyTorch` `Rasterio` `GeoJSON` |
-| [**KANNU**](https://github.com/SPYLEAN/datathon-2026) | Turning fragmented crime records into explainable intelligence | `Next.js` `Gemini` `DBSCAN` `SQLite` |
-| [**Rank Rascal**](https://github.com/SPYLEAN/Rank-Rascal) | Building a privacy-aware Roblox identity and Discord game system | `TypeScript` `Discord.js` `OAuth` `PostgreSQL` |
-| [**VenuePulse AI**](https://github.com/SPYLEAN/Crowd-flow-optimizer) | Predicting crowd pressure before it becomes dangerous | `TypeScript` `React` `Node.js` `LangChain` |
-
-### Operating range
-
-- **Product systems:** React, Next.js, TypeScript, Node.js, Express, REST APIs and SQLite.
-- **Applied intelligence:** Python, Gemini, LangChain, Hugging Face, geospatial analysis and data visualization.
-- **Creative systems:** brand strategy, campaigns, content production, experience design and creative direction.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./spylean-operations-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./spylean-operations-light.svg" />
+    <img src="./spylean-operations-dark.svg" width="100%" alt="SPYLEAN operations log showing active systems, problems, responses and current capabilities" />
+  </picture>
+</p>
 
 ### Additional systems
 
@@ -46,17 +41,7 @@ Founder of [CFORGE](https://cforge-studio.vercel.app/). Building software, creat
 - [**Startup Validator**](https://github.com/SPYLEAN/setup-validator) — structured evidence for early-stage ideas
 - [**Vertex × Cozyan**](https://vertex-cozyan-site.vercel.app/) — booking and venue experience platform
 
-### Live build graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./spylean-live-metrics-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./spylean-live-metrics-light.svg" />
-    <img src="./spylean-live-metrics-dark.svg" width="100%" alt="Live SPYLEAN GitHub activity, repository signal, contribution terrain, coding habits and language activity" />
-  </picture>
-</p>
-
-<sub>Updated automatically from public GitHub data · Bangalore, India · Problems → systems → shipped work</sub>
+<sub>Bangalore, India · Problems → systems → shipped work</sub>
 
 ---
 
