@@ -21,14 +21,23 @@
 ---
 
 <p align="center">
-  <img src="./selected-systems.svg" width="100%" alt="Selected SPYLEAN systems: KANNU, VenuePulse AI, Startup Validator and CFORGE" />
+  <img src="./selected-systems.svg" width="100%" alt="Selected SPYLEAN systems: SamudraNetra, KANNU, Rank Rascal and VenuePulse AI" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/SPYLEAN/datathon-2026"><img src="https://img.shields.io/badge/01_KANNU-9165E5?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore KANNU" /></a>
-  <a href="https://github.com/SPYLEAN/Crowd-flow-optimizer"><img src="https://img.shields.io/badge/02_VENUEPULSE-0891B2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore VenuePulse AI" /></a>
-  <a href="https://github.com/SPYLEAN/setup-validator"><img src="https://img.shields.io/badge/03_STARTUP_VALIDATOR-D97706?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Startup Validator" /></a>
-  <a href="https://cforge-studio.vercel.app/"><img src="https://img.shields.io/badge/04_ENTER_CFORGE-047857?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Enter CFORGE" /></a>
+  <a href="https://github.com/SPYLEAN/SamudraNetra"><img src="https://img.shields.io/badge/01_SAMUDRANETRA-0891B2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore SamudraNetra" /></a>
+  <a href="https://github.com/SPYLEAN/datathon-2026"><img src="https://img.shields.io/badge/02_KANNU-9165E5?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore KANNU" /></a>
+  <a href="https://github.com/SPYLEAN/Rank-Rascal"><img src="https://img.shields.io/badge/03_RANK_RASCAL-047857?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Rank Rascal" /></a>
+  <a href="https://github.com/SPYLEAN/Crowd-flow-optimizer"><img src="https://img.shields.io/badge/04_VENUEPULSE-D97706?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore VenuePulse AI" /></a>
+</p>
+
+<p align="center">
+  <sub>ALSO BUILDING</sub><br />
+  <a href="https://github.com/SPYLEAN/Sentinel-memory">Sentinel Memory</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/SPYLEAN/setup-validator">Startup Validator</a>
+  &nbsp;·&nbsp;
+  <a href="https://cforge-studio.vercel.app/">CFORGE</a>
 </p>
 
 <p align="center">
