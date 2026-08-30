@@ -1,63 +1,65 @@
 <p align="center">
-  <img src="./spylean-banner-hd.png" width="100%" alt="SPYLEAN — Creative Technologist and Brand Systems Builder" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./spylean-system-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./spylean-system-light.svg" />
+    <img src="./spylean-system-dark.svg" width="100%" alt="SPYLEAN identity system — Tanvir Aditya Bayi, creative technologist and systems builder" />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://spylean-portfolio.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0E0A15?style=for-the-badge&amp;logo=vercel&amp;logoColor=C084FC" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/tanvir-aditya-bayi-7a6177304/"><img src="https://img.shields.io/badge/LINKEDIN-0E0A15?style=for-the-badge&amp;logo=linkedin&amp;logoColor=C084FC" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/spylean/"><img src="https://img.shields.io/badge/INSTAGRAM-0E0A15?style=for-the-badge&amp;logo=instagram&amp;logoColor=C084FC" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/@SPYLEAN"><img src="https://img.shields.io/badge/YOUTUBE-0E0A15?style=for-the-badge&amp;logo=youtube&amp;logoColor=C084FC" alt="YouTube" /></a>
-  <a href="mailto:bayitanviraditya@gmail.com"><img src="https://img.shields.io/badge/LET'S_COLLABORATE-9165E5?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-</p>
-
-<h3 align="center">I build brands, content, digital products and experiences that feel like worlds.</h3>
-
-<p align="center">
-  Founder, <a href="https://cforge-studio.vercel.app/"><strong>CFORGE</strong></a>
-  &nbsp;·&nbsp; Building <strong>LETMEIN</strong>
-  &nbsp;·&nbsp; Creative Director
-</p>
-
----
-
-<p align="center">
-  <img src="./selected-systems.svg" width="100%" alt="Selected SPYLEAN systems: SamudraNetra, KANNU, Rank Rascal and VenuePulse AI" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/SPYLEAN/SamudraNetra"><img src="https://img.shields.io/badge/01_SAMUDRANETRA-0891B2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore SamudraNetra" /></a>
-  <a href="https://github.com/SPYLEAN/datathon-2026"><img src="https://img.shields.io/badge/02_KANNU-9165E5?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore KANNU" /></a>
-  <a href="https://github.com/SPYLEAN/Rank-Rascal"><img src="https://img.shields.io/badge/03_RANK_RASCAL-047857?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Rank Rascal" /></a>
-  <a href="https://github.com/SPYLEAN/Crowd-flow-optimizer"><img src="https://img.shields.io/badge/04_VENUEPULSE-D97706?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore VenuePulse AI" /></a>
-</p>
-
-<p align="center">
-  <sub>ALSO BUILDING</sub><br />
-  <a href="https://github.com/SPYLEAN/Sentinel-memory">Sentinel Memory</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/SPYLEAN/setup-validator">Startup Validator</a>
+  <a href="https://spylean-portfolio.vercel.app/">Portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://cforge-studio.vercel.app/">CFORGE</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/tanvir-aditya-bayi-7a6177304/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/@SPYLEAN">YouTube</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:bayitanviraditya@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="./capability-matrix.svg" width="100%" alt="SPYLEAN capability matrix across product, intelligence and creative systems" />
-</p>
+## About the operator
+
+I’m a creative technologist and systems builder from Bangalore. I work where product engineering, applied intelligence and brand experience meet—turning real problems into tools people can actually use.
+
+Founder of [CFORGE](https://cforge-studio.vercel.app/). Building software, creative systems and experiments in public under the name **SPYLEAN**.
+
+### Current build queue
+
+| System | Problem being solved | Build signal |
+| --- | --- | --- |
+| [**SamudraNetra**](https://github.com/SPYLEAN/SamudraNetra) | Detecting, tracking and attributing marine oil spills | `Python` `PyTorch` `Rasterio` `GeoJSON` |
+| [**KANNU**](https://github.com/SPYLEAN/datathon-2026) | Turning fragmented crime records into explainable intelligence | `Next.js` `Gemini` `DBSCAN` `SQLite` |
+| [**Rank Rascal**](https://github.com/SPYLEAN/Rank-Rascal) | Building a privacy-aware Roblox identity and Discord game system | `TypeScript` `Discord.js` `OAuth` `PostgreSQL` |
+| [**VenuePulse AI**](https://github.com/SPYLEAN/Crowd-flow-optimizer) | Predicting crowd pressure before it becomes dangerous | `TypeScript` `React` `Node.js` `LangChain` |
+
+### Operating range
+
+- **Product systems:** React, Next.js, TypeScript, Node.js, Express, REST APIs and SQLite.
+- **Applied intelligence:** Python, Gemini, LangChain, Hugging Face, geospatial analysis and data visualization.
+- **Creative systems:** brand strategy, campaigns, content production, experience design and creative direction.
+
+### Additional systems
+
+- [**LETMEIN**](https://www.letme.co.in/) — campus access infrastructure
+- [**Sentinel Memory**](https://github.com/SPYLEAN/Sentinel-memory) — operational memory for physical spaces
+- [**Startup Validator**](https://github.com/SPYLEAN/setup-validator) — structured evidence for early-stage ideas
+- [**Vertex × Cozyan**](https://vertex-cozyan-site.vercel.app/) — booking and venue experience platform
+
+### Live build graph
 
 <p align="center">
-  <img src="./spylean-live-metrics.svg" width="100%" alt="Live SPYLEAN GitHub intelligence with contributions, coding habits, languages, featured repositories and recent activity" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./spylean-live-metrics-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./spylean-live-metrics-light.svg" />
+    <img src="./spylean-live-metrics-dark.svg" width="100%" alt="Live SPYLEAN GitHub activity, repository signal, contribution terrain, coding habits and language activity" />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="./problem-hunter.gif" width="100%" alt="Animated SPYLEAN problem hunter scanning, locking onto problems and shooting them into shipped project solutions" />
-</p>
+<sub>Updated automatically from public GitHub data · Bangalore, India · Problems → systems → shipped work</sub>
 
 ---
 
-<p align="center">
-  <a href="mailto:bayitanviraditya@gmail.com"><img src="./contact-terminal.svg" width="100%" alt="Open a project channel with SPYLEAN" /></a>
-</p>
+### Open channel
 
-<p align="center">
-  <sub>SPYLEAN / BANGALORE, INDIA / CREATIVE × TECH</sub>
-</p>
+I’m open to ambitious product, technology and creative collaborations. If the problem is interesting and the outcome needs to feel considered, [start a conversation](mailto:bayitanviraditya@gmail.com).
