@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="570" viewBox="0 0 1200 570" role="img" aria-labelledby="operations-title operations-desc">
+    <title id="operations-title">SPYLEAN operations log</title>
+    <desc id="operations-desc">An animated GitHub-native systems map showing SPYLEAN's active projects, the problems they solve and the technical and creative capabilities behind them.</desc>
+    <defs>
+      <clipPath id="operations-clip"><rect x="30" y="74" width="1140" height="420" rx="12"/></clipPath>
+      <filter id="operations-glow" x="-40%" y="-40%" width="180%" height="180%">
+        <feGaussianBlur stdDeviation="4" result="blur"/>
+        <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+      <style>
+        .header{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#c9d1d9;font-size:14px;font-weight:650;letter-spacing:1.5px}
+        .eyebrow{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#58a6ff;font-size:12px;font-weight:750;letter-spacing:1.4px}
+        .index{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#3fb950;font-size:13px;font-weight:750}
+        .name{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#f0f6fc;font-size:16px;font-weight:700}
+        .problem{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#8b949e;font-size:10px;font-weight:700;letter-spacing:.8px}
+        .response{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#6e7681;font-size:11px}
+        .domain{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#f0f6fc;font-size:12px;font-weight:750;letter-spacing:.8px}
+        .stack{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#58a6ff;font-size:11px}
+        .micro{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#6e7681;font-size:9px;letter-spacing:1px}
+        .motto{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#c9d1d9;font-size:11px;font-weight:650;letter-spacing:1.1px}
+        .hairline{stroke:#30363d;stroke-width:1}
+        .signalDot,.statusPulse{transform-box:fill-box;transform-origin:center;animation:operations-pulse 2.7s ease-in-out infinite}
+        .dataSweep{transform-box:fill-box;animation:operations-sweep 8s ease-in-out infinite}
+        .flowLine{stroke-dasharray:90 1050;animation:operations-flow 6.8s linear infinite}
+        @keyframes operations-pulse{
+          0%,100%{opacity:.42;transform:scale(.8)}
+          50%{opacity:1;transform:scale(1.15)}
+        }
+        @keyframes operations-sweep{
+          0%,10%{opacity:0;transform:translateX(0)}
+          18%{opacity:.25}
+          76%{opacity:.16}
+          86%,100%{opacity:0;transform:translateX(1085px)}
+        }
+        @keyframes operations-flow{
+          from{stroke-dashoffset:0}
+          to{stroke-dashoffset:-1140}
+        }
+        @media (prefers-reduced-motion:reduce){
+          .signalDot,.statusPulse,.dataSweep,.flowLine{animation:none!important}
+          .signalDot,.statusPulse{opacity:1}
+          .dataSweep{display:none}
+          .flowLine{stroke-dasharray:none}
+        }
+      </style>
+    </defs>
+
+    <rect width="1200" height="570" rx="12" fill="#0d1117"/>
+    <rect x=".5" y=".5" width="1199" height="569" rx="11.5" fill="none" stroke="#30363d"/>
+    <rect x="1" y="1" width="1198" height="54" rx="11" fill="#161b22"/>
+    <path d="M1 44h1198v11H1z" fill="#161b22"/>
+    <circle cx="28" cy="28" r="5" fill="#6e7681" opacity=".55"/>
+    <circle cx="46" cy="28" r="5" fill="#6e7681" opacity=".38"/>
+    <circle cx="64" cy="28" r="5" fill="#6e7681" opacity=".22"/>
+    <text x="92" y="33" class="header">SPYLEAN.ME / OPERATIONS.LOG</text>
+    <circle cx="1048" cy="28" r="4" fill="#3fb950" class="signalDot"/>
+    <text x="1060" y="33" class="micro">SYSTEMS ACTIVE</text>
+
+    <rect x="30" y="74" width="555" height="420" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="610" y="74" width="560" height="420" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="42" y="76" width="3" height="416" fill="#58a6ff" opacity="0" class="dataSweep" clip-path="url(#operations-clip)" filter="url(#operations-glow)"/>
+
+    <text x="58" y="108" class="eyebrow">ACTIVE.SYSTEMS / PROBLEM → RESPONSE</text>
+    <line x1="58" y1="119" x2="562" y2="119" class="hairline"/>
+    <text x="58" y="140" class="index">01</text>
+      <circle cx="91" cy="135" r="4" fill="#3fb950" class="statusPulse" style="animation-delay:0s"/>
+      <text x="104" y="140" class="name">SAMUDRANETRA</text>
+      <text x="104" y="163" class="problem">MARINE OIL-SPILL DETECTION</text>
+      <text x="104" y="184" class="response">SAR segmentation · hindcast · source attribution</text>
+      <line x1="58" y1="202" x2="562" y2="202" class="hairline"/><text x="58" y="228" class="index">02</text>
+      <circle cx="91" cy="223" r="4" fill="#3fb950" class="statusPulse" style="animation-delay:0.4s"/>
+      <text x="104" y="228" class="name">KANNU</text>
+      <text x="104" y="251" class="problem">FRAGMENTED CRIME INTELLIGENCE</text>
+      <text x="104" y="272" class="response">Dual-AI analysis · hotspots · explainable case flow</text>
+      <line x1="58" y1="290" x2="562" y2="290" class="hairline"/><text x="58" y="316" class="index">03</text>
+      <circle cx="91" cy="311" r="4" fill="#3fb950" class="statusPulse" style="animation-delay:0.8s"/>
+      <text x="104" y="316" class="name">RANK RASCAL</text>
+      <text x="104" y="339" class="problem">FRAGMENTED GAMING IDENTITY</text>
+      <text x="104" y="360" class="response">Roblox identity · Discord systems · privacy-first rewards</text>
+      <line x1="58" y1="378" x2="562" y2="378" class="hairline"/><text x="58" y="404" class="index">04</text>
+      <circle cx="91" cy="399" r="4" fill="#3fb950" class="statusPulse" style="animation-delay:1.2000000000000002s"/>
+      <text x="104" y="404" class="name">VENUEPULSE AI</text>
+      <text x="104" y="427" class="problem">CROWD PRESSURE &amp; BOTTLENECKS</text>
+      <text x="104" y="448" class="response">Forecasting · incident intelligence · safer rerouting</text>
+      
+
+    <text x="646" y="108" class="eyebrow">CAPABILITY.SIGNAL / CURRENT RANGE</text>
+    <line x1="646" y1="119" x2="1142" y2="119" class="hairline"/>
+    <text x="646" y="140" class="domain">PRODUCT SYSTEMS</text>
+      <text x="646" y="163" class="stack">React · Next.js · TypeScript · Node.js</text>
+      <text x="646" y="184" class="response">Interfaces, APIs and deployable web products</text>
+      <line x1="646" y1="202" x2="1142" y2="202" class="hairline"/><text x="646" y="228" class="domain">APPLIED INTELLIGENCE</text>
+      <text x="646" y="251" class="stack">Python · Gemini · PyTorch · LangChain</text>
+      <text x="646" y="272" class="response">Classification, reasoning and ML workflows</text>
+      <line x1="646" y1="290" x2="1142" y2="290" class="hairline"/><text x="646" y="316" class="domain">DATA &amp; SPATIAL</text>
+      <text x="646" y="339" class="stack">SQLite · DBSCAN · MapLibre · Rasterio</text>
+      <text x="646" y="360" class="response">Structured evidence, maps and geospatial analysis</text>
+      <line x1="646" y1="378" x2="1142" y2="378" class="hairline"/><text x="646" y="404" class="domain">CREATIVE SYSTEMS</text>
+      <text x="646" y="427" class="stack">Brand strategy · content · UX · campaigns</text>
+      <text x="646" y="448" class="response">Identity, storytelling and experience direction</text>
+      
+
+    <rect x="30" y="513" width="1140" height="39" rx="8" fill="#161b22" stroke="#30363d"/>
+    <line x1="30" y1="513" x2="1170" y2="513" stroke="#58a6ff" stroke-width="2" class="flowLine"/>
+    <text x="52" y="538" class="motto">PROBLEMS → SYSTEMS → SHIPPED WORK</text>
+    <text x="1082" y="538" class="micro">BANGALORE / 2026</text>
+  </svg>

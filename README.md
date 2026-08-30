@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./spylean-system-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./spylean-system-light.svg" />
-    <img src="./spylean-system-dark.svg" width="100%" alt="SPYLEAN identity system — Tanvir Aditya Bayi, creative technologist and systems builder" />
+    <source media="(prefers-color-scheme: dark)" srcset="./spylean-identity-v3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./spylean-identity-v3-light.svg" />
+    <img src="./spylean-identity-v3-dark.svg" width="100%" alt="SPYLEAN identity system — Tanvir Aditya Bayi, creative technologist and systems builder" />
   </picture>
 </p>
 
@@ -28,9 +28,9 @@ Founder of [CFORGE](https://cforge-studio.vercel.app/). Building software, creat
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./spylean-operations-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./spylean-operations-light.svg" />
-    <img src="./spylean-operations-dark.svg" width="100%" alt="SPYLEAN operations log showing active systems, problems, responses and current capabilities" />
+    <source media="(prefers-color-scheme: dark)" srcset="./spylean-operations-v3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./spylean-operations-v3-light.svg" />
+    <img src="./spylean-operations-v3-dark.svg" width="100%" alt="SPYLEAN operations log showing active systems, problems, responses and current capabilities" />
   </picture>
 </p>
 
