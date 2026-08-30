@@ -64,22 +64,22 @@
     <line x1="58" y1="119" x2="562" y2="119" class="hairline"/>
     <text x="58" y="140" class="index">01</text>
       <text x="94" y="140" class="name">SAMUDRANETRA</text>
-      <circle cx="550" cy="135" r="4" fill="#3fb950" class="statusPulse" style="animation-delay:0s"/>
+      <circle cx="240.6" cy="135" r="4" fill="#3fb950" class="statusPulse" style="animation-delay:0s"/>
       <text x="94" y="163" class="problem">MARINE OIL-SPILL DETECTION</text>
       <text x="94" y="184" class="response">SAR segmentation · hindcast · source attribution</text>
       <line x1="58" y1="202" x2="562" y2="202" class="hairline"/><text x="58" y="228" class="index">02</text>
       <text x="94" y="228" class="name">KANNU</text>
-      <circle cx="550" cy="223" r="4" fill="#3fb950" class="statusPulse" style="animation-delay:0.4s"/>
+      <circle cx="165.0" cy="223" r="4" fill="#3fb950" class="statusPulse" style="animation-delay:0.4s"/>
       <text x="94" y="251" class="problem">FRAGMENTED CRIME INTELLIGENCE</text>
       <text x="94" y="272" class="response">Dual-AI analysis · hotspots · explainable case flow</text>
       <line x1="58" y1="290" x2="562" y2="290" class="hairline"/><text x="58" y="316" class="index">03</text>
       <text x="94" y="316" class="name">RANK RASCAL</text>
-      <circle cx="550" cy="311" r="4" fill="#3fb950" class="statusPulse" style="animation-delay:0.8s"/>
+      <circle cx="229.8" cy="311" r="4" fill="#3fb950" class="statusPulse" style="animation-delay:0.8s"/>
       <text x="94" y="339" class="problem">FRAGMENTED GAMING IDENTITY</text>
       <text x="94" y="360" class="response">Roblox identity · Discord systems · privacy-first rewards</text>
       <line x1="58" y1="378" x2="562" y2="378" class="hairline"/><text x="58" y="404" class="index">04</text>
       <text x="94" y="404" class="name">VENUEPULSE AI</text>
-      <circle cx="550" cy="399" r="4" fill="#3fb950" class="statusPulse" style="animation-delay:1.2000000000000002s"/>
+      <circle cx="251.4" cy="399" r="4" fill="#3fb950" class="statusPulse" style="animation-delay:1.2000000000000002s"/>
       <text x="94" y="427" class="problem">CROWD PRESSURE &amp; BOTTLENECKS</text>
       <text x="94" y="448" class="response">Forecasting · incident intelligence · safer rerouting</text>
       

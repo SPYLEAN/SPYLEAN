@@ -141,14 +141,14 @@
     <text x="48" y="568" class="buildIndex">01</text>
       <text x="79" y="568" class="buildName">SAMUDRANETRA</text>
       <text x="79" y="585" class="buildDomain">MARITIME INTELLIGENCE</text>
-      <circle cx="313" cy="563" r="3.5" fill="#1a7f37" class="buildPulse" style="animation-delay:0s"/><text x="334" y="568" class="buildIndex">02</text>
+      <circle cx="179.4" cy="563" r="3.5" fill="#1a7f37" class="buildPulse" style="animation-delay:0s"/><text x="334" y="568" class="buildIndex">02</text>
       <text x="365" y="568" class="buildName">KANNU</text>
       <text x="365" y="585" class="buildDomain">CRIME INTELLIGENCE</text>
-      <circle cx="599" cy="563" r="3.5" fill="#1a7f37" class="buildPulse" style="animation-delay:0.35s"/><text x="620" y="568" class="buildIndex">03</text>
+      <circle cx="415.0" cy="563" r="3.5" fill="#1a7f37" class="buildPulse" style="animation-delay:0.35s"/><text x="620" y="568" class="buildIndex">03</text>
       <text x="651" y="568" class="buildName">RANK RASCAL</text>
       <text x="651" y="585" class="buildDomain">GAME SYSTEMS</text>
-      <circle cx="885" cy="563" r="3.5" fill="#1a7f37" class="buildPulse" style="animation-delay:0.7s"/><text x="906" y="568" class="buildIndex">04</text>
+      <circle cx="744.2" cy="563" r="3.5" fill="#1a7f37" class="buildPulse" style="animation-delay:0.7s"/><text x="906" y="568" class="buildIndex">04</text>
       <text x="937" y="568" class="buildName">VENUEPULSE AI</text>
       <text x="937" y="585" class="buildDomain">CROWD OPERATIONS</text>
-      <circle cx="1171" cy="563" r="3.5" fill="#1a7f37" class="buildPulse" style="animation-delay:1.0499999999999998s"/>
+      <circle cx="1044.6" cy="563" r="3.5" fill="#1a7f37" class="buildPulse" style="animation-delay:1.0499999999999998s"/>
   </svg>

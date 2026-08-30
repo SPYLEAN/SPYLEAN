@@ -34,12 +34,24 @@ Founder of [CFORGE](https://cforge-studio.vercel.app/). Building software, creat
   </picture>
 </p>
 
-### Additional systems
+<p align="center">
+  <a href="https://github.com/SPYLEAN/SamudraNetra"><kbd>01 · SamudraNetra ↗</kbd></a>
+  &nbsp;
+  <a href="https://github.com/SPYLEAN/datathon-2026"><kbd>02 · KANNU ↗</kbd></a>
+  &nbsp;
+  <a href="https://github.com/SPYLEAN/Rank-Rascal"><kbd>03 · Rank Rascal ↗</kbd></a>
+  <br /><br />
+  <a href="https://github.com/SPYLEAN/Crowd-flow-optimizer"><kbd>04 · VenuePulse AI ↗</kbd></a>
+  &nbsp;
+  <a href="https://www.letme.co.in/"><kbd>05 · LETMEIN ↗</kbd></a>
+  &nbsp;
+  <a href="https://vertex-cozyan-site.vercel.app/"><kbd>06 · Vertex × Cozyan ↗</kbd></a>
+</p>
 
-- [**LETMEIN**](https://www.letme.co.in/) — campus access infrastructure
+### Other systems
+
 - [**Sentinel Memory**](https://github.com/SPYLEAN/Sentinel-memory) — operational memory for physical spaces
 - [**Startup Validator**](https://github.com/SPYLEAN/setup-validator) — structured evidence for early-stage ideas
-- [**Vertex × Cozyan**](https://vertex-cozyan-site.vercel.app/) — booking and venue experience platform
 
 <sub>Bangalore, India · Problems → systems → shipped work</sub>
 
