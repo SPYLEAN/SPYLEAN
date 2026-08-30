@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="./github-telemetry.svg" width="100%" alt="SPYLEAN GitHub statistics and most used languages" />
+  <img src="./spylean-live-metrics.svg" width="100%" alt="Live SPYLEAN GitHub intelligence with contributions, coding habits, languages, featured repositories and recent activity" />
 </p>
 
 <p align="center">
