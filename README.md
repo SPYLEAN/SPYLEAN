@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./spylean-identity-v3-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./spylean-identity-v3-light.svg" />
-    <img src="./spylean-identity-v3-dark.svg" width="100%" alt="SPYLEAN identity system — Tanvir Aditya Bayi, creative technologist and systems builder" />
+    <source media="(prefers-color-scheme: dark)" srcset="./spylean-identity-v5-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./spylean-identity-v5-light.svg" />
+    <img src="./spylean-identity-v5-dark.svg" width="100%" alt="SPYLEAN identity system — Tanvir Aditya Bayi, creative technologist and systems builder" />
   </picture>
 </p>
 
@@ -18,45 +18,78 @@
   <a href="mailto:bayitanviraditya@gmail.com">Email</a>
 </p>
 
-## About the operator
+## About
 
-I’m a creative technologist and systems builder from Bangalore. I work where product engineering, applied intelligence and brand experience meet—turning real problems into tools people can actually use.
+I’m **Tanvir Aditya Bayi**, a B.Tech Computer Science student and creative technologist from Bengaluru. I build AI-assisted and full-stack systems across maritime intelligence, motorsport, public-safety analytics, platform identity and crowd operations.
 
-Founder of [CFORGE](https://cforge-studio.vercel.app/). Building software, creative systems and experiments in public under the name **SPYLEAN**.
+My work focuses on evidence, constraints, security and usable interfaces—not just demos that look convincing. I’m also the founder of [CFORGE](https://cforge-studio.vercel.app/), where I work across technology, creative direction and product execution.
 
-### Operations log
+## Current signal
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./spylean-operations-v3-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./spylean-operations-v3-light.svg" />
-    <img src="./spylean-operations-v3-dark.svg" width="100%" alt="SPYLEAN operations log showing active systems, problems, responses and current capabilities" />
+    <source media="(prefers-color-scheme: dark)" srcset="./spylean-signal-v2-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./spylean-signal-v2-light.svg" />
+    <img src="./spylean-signal-v2-dark.svg" width="100%" alt="SPYLEAN public GitHub snapshot for September 2026" />
+  </picture>
+</p>
+
+## Selected engineering work
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./spylean-operations-v5-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./spylean-operations-v5-light.svg" />
+    <img src="./spylean-operations-v5-dark.svg" width="100%" alt="SPYLEAN flagship systems and current engineering capabilities" />
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SPYLEAN/SamudraNetra"><kbd>01 · SamudraNetra ↗</kbd></a>
+  <a href="https://github.com/SPYLEAN/Varuna-maritime"><kbd>01 · VARUNA ↗</kbd></a>
   &nbsp;
-  <a href="https://github.com/SPYLEAN/datathon-2026"><kbd>02 · KANNU ↗</kbd></a>
+  <a href="https://github.com/SPYLEAN/KYNTRA"><kbd>02 · KYNTRA ↗</kbd></a>
   &nbsp;
-  <a href="https://github.com/SPYLEAN/Rank-Rascal"><kbd>03 · Rank Rascal ↗</kbd></a>
+  <a href="https://github.com/SPYLEAN/datathon-2026"><kbd>03 · KANNU ↗</kbd></a>
+  &nbsp;
+  <a href="https://github.com/SPYLEAN/Rank-Rascal"><kbd>04 · Rank Rascal ↗</kbd></a>
   <br /><br />
-  <a href="https://github.com/SPYLEAN/Crowd-flow-optimizer"><kbd>04 · VenuePulse AI ↗</kbd></a>
+  <a href="https://github.com/SPYLEAN/Crowd-flow-optimizer"><kbd>05 · VenuePulse AI ↗</kbd></a>
   &nbsp;
-  <a href="https://www.letme.co.in/"><kbd>05 · LETMEIN ↗</kbd></a>
-  &nbsp;
-  <a href="https://vertex-cozyan-site.vercel.app/"><kbd>06 · Vertex × Cozyan ↗</kbd></a>
+  <a href="https://github.com/SPYLEAN/Sentinel-memory"><kbd>06 · Sentinel Memory ↗</kbd></a>
 </p>
 
-### Other systems
+### Building now
 
-- [**Sentinel Memory**](https://github.com/SPYLEAN/Sentinel-memory) — operational memory for physical spaces
-- [**Startup Validator**](https://github.com/SPYLEAN/setup-validator) — structured evidence for early-stage ideas
+- [**RouteWeigh**](https://github.com/SPYLEAN/routeweigh) — adaptive trip optimization; public repository initialized and implementation in progress
+- [**VARUNA**](https://github.com/SPYLEAN/Varuna-maritime) — production-candidate maritime oil-spill investigation workflow
+- [**KYNTRA**](https://github.com/SPYLEAN/KYNTRA) — predictive racecraft, telemetry and energy decision intelligence
 
-<sub>Bangalore, India · Problems → systems → shipped work</sub>
+### Deployed product work
+
+- [**LETMEIN**](https://letme-in.vercel.app/) — product and booking experience
+- [**Vertex × Cozyan**](https://vertex-cozyan-site.vercel.app/) — gaming lounge and café platform
+
+## Stack
+
+<p>
+  <kbd>Python</kbd>
+  <kbd>TypeScript</kbd>
+  <kbd>JavaScript</kbd>
+  <kbd>React</kbd>
+  <kbd>Next.js</kbd>
+  <kbd>FastAPI</kbd>
+  <kbd>Node.js</kbd>
+  <kbd>SQL</kbd>
+  <kbd>Applied ML</kbd>
+  <kbd>Geospatial</kbd>
+  <kbd>Simulation</kbd>
+  <kbd>Data Systems</kbd>
+</p>
 
 ---
 
-### Open channel
+## Open channel
 
-I’m open to ambitious product, technology and creative collaborations. If the problem is interesting and the outcome needs to feel considered, [start a conversation](mailto:bayitanviraditya@gmail.com).
+I’m open to **software engineering, AI/ML and creative technology internships**, as well as ambitious product collaborations. If the problem is interesting and the outcome needs to be thoughtful, [start a conversation](mailto:bayitanviraditya@gmail.com).
+
+<sub>Bengaluru, India · Research → systems → shipped work</sub>

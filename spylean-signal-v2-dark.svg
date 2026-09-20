@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">SPYLEAN public GitHub signal</title>
+  <desc id="desc">A September 2026 snapshot of public repositories, current technical range, and recent project activity.</desc>
+  <defs>
+    <style>
+      .header{font:650 14px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:1.5px;fill:#c9d1d9}
+      .eyebrow{font:750 12px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:1.35px;fill:#58a6ff}
+      .number{font:700 27px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#f0f6fc}
+      .metric{font:700 9px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:.8px;fill:#8b949e}
+      .title{font:700 13px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:.6px;fill:#f0f6fc}
+      .stack{font:500 11px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;fill:#58a6ff}
+      .body{font:400 11px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#8b949e}
+      .micro{font:500 9px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;letter-spacing:.9px;fill:#6e7681}
+      .line{stroke:#30363d;stroke-width:1}
+      .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.6s ease-in-out infinite}
+      .sweep{stroke-dasharray:90 1100;animation:sweep 7s linear infinite}
+      @keyframes pulse{0%,100%{opacity:.4;transform:scale(.8)}50%{opacity:1;transform:scale(1.18)}}
+      @keyframes sweep{from{stroke-dashoffset:0}to{stroke-dashoffset:-1190}}
+      @media (prefers-reduced-motion:reduce){.pulse,.sweep{animation:none!important}.pulse{opacity:1}.sweep{stroke-dasharray:none}}
+    </style>
+  </defs>
+  <rect width="1200" height="390" rx="12" fill="#0d1117"/>
+  <rect x=".5" y=".5" width="1199" height="389" rx="11.5" fill="none" stroke="#30363d"/>
+  <rect x="1" y="1" width="1198" height="54" rx="11" fill="#161b22"/>
+  <path d="M1 44h1198v11H1z" fill="#161b22"/>
+  <circle cx="28" cy="28" r="5" fill="#6e7681" opacity=".55"/>
+  <circle cx="46" cy="28" r="5" fill="#6e7681" opacity=".38"/>
+  <circle cx="64" cy="28" r="5" fill="#6e7681" opacity=".22"/>
+  <text x="92" y="33" class="header">SPYLEAN.ME / PUBLIC.SIGNAL</text>
+  <circle cx="1036" cy="28" r="4" fill="#3fb950" class="pulse"/>
+  <text x="1048" y="33" class="micro">SEP 2026 SNAPSHOT</text>
+
+  <rect x="30" y="74" width="555" height="240" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="58" y="106" class="eyebrow">PROFILE.SIGNAL / VERIFIED PUBLIC DATA</text>
+  <line x1="58" y1="118" x2="557" y2="118" class="line"/>
+  <g transform="translate(58 142)">
+    <rect width="112" height="72" rx="8" fill="#0d1117" stroke="#30363d"/>
+    <text x="14" y="36" class="number">11</text><text x="14" y="57" class="metric">PUBLIC REPOS</text>
+  </g>
+  <g transform="translate(180 142)">
+    <rect width="112" height="72" rx="8" fill="#0d1117" stroke="#30363d"/>
+    <text x="14" y="36" class="number">10</text><text x="14" y="57" class="metric">NON-EMPTY</text>
+  </g>
+  <g transform="translate(302 142)">
+    <rect width="112" height="72" rx="8" fill="#0d1117" stroke="#30363d"/>
+    <text x="14" y="36" class="number">03</text><text x="14" y="57" class="metric">ACTIVE IN SEP</text>
+  </g>
+  <g transform="translate(424 142)">
+    <rect width="112" height="72" rx="8" fill="#0d1117" stroke="#30363d"/>
+    <text x="14" y="36" class="number">06</text><text x="14" y="57" class="metric">FOLLOWERS</text>
+  </g>
+  <circle cx="62" cy="242" r="3.5" fill="#3fb950" class="pulse"/><text x="76" y="246" class="title">VARUNA</text><text x="250" y="246" class="micro">LATEST BUILD · PYTHON</text>
+  <circle cx="62" cy="269" r="3.5" fill="#3fb950" class="pulse" style="animation-delay:.35s"/><text x="76" y="273" class="title">KYNTRA</text><text x="250" y="273" class="micro">ACTIVE · PYTHON / TYPESCRIPT</text>
+  <circle cx="62" cy="296" r="3.5" fill="#d29922"/><text x="76" y="300" class="title">ROUTEWEIGH</text><text x="250" y="300" class="micro">WIP · REPOSITORY INITIALIZED</text>
+
+  <rect x="610" y="74" width="560" height="240" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="638" y="106" class="eyebrow">CURRENT.TECHNICAL.RANGE</text>
+  <line x1="638" y1="118" x2="1142" y2="118" class="line"/>
+  <text x="638" y="148" class="title">APPLIED AI &amp; ML</text><text x="638" y="169" class="stack">Python · FastAPI · ML pipelines · LLM systems</text>
+  <line x1="638" y1="185" x2="1142" y2="185" class="line"/>
+  <text x="638" y="211" class="title">FULL-STACK PRODUCT</text><text x="638" y="232" class="stack">TypeScript · React · Next.js · Node.js</text>
+  <line x1="638" y1="248" x2="1142" y2="248" class="line"/>
+  <text x="638" y="274" class="title">DATA &amp; SIMULATION</text><text x="638" y="295" class="stack">Pandas · SQL · geospatial · telemetry</text>
+
+  <rect x="30" y="332" width="1140" height="40" rx="8" fill="#161b22" stroke="#30363d"/>
+  <line x1="30" y1="332" x2="1170" y2="332" stroke="#58a6ff" stroke-width="2" class="sweep"/>
+  <text x="52" y="357" class="title">CURRENT FOCUS: EVIDENCE-AWARE SOFTWARE FOR REAL-WORLD DECISIONS</text>
+  <text x="1025" y="357" class="micro">GITHUB API / PUBLIC</text>
+</svg>
