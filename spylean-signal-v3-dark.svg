@@ -75,7 +75,7 @@
 
   <rect x="570" y="194" width="180" height="202" rx="10" fill="#161b22" stroke="#30363d"/>
   <text x="594" y="222" class="eyebrow">ACTIVITY</text>
-  <text x="594" y="266" class="number">27</text><text x="594" y="286" class="label">ACTIVE BUILD DAYS / YEAR</text>
+  <text x="594" y="266" class="number">196</text><text x="594" y="286" class="label">CONTRIBUTIONS / YEAR</text>
   <line x1="594" y1="303" x2="726" y2="303" stroke="#30363d"/>
   <text x="594" y="330" class="strong">1 day</text><text x="594" y="347" class="micro">CURRENT STREAK</text>
   <text x="594" y="373" class="strong">4 days</text><text x="594" y="390" class="micro">BEST / YEAR</text>
