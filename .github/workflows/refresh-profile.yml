@@ -1,0 +1,45 @@
+name: Refresh SPYLEAN profile
+
+on:
+  schedule:
+    # 00:17 IST every day (GitHub schedules use UTC).
+    - cron: "47 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: spylean-profile-refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Regenerate public proof panels
+        run: node .github/scripts/generate-profile.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changed panels
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add spylean-signal-v3-dark.svg spylean-signal-v3-light.svg
+          if git diff --cached --quiet; then
+            echo "Profile proof is already current."
+            exit 0
+          fi
+          git commit -m "chore: refresh profile proof"
+          git push
