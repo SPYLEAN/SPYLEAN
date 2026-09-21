@@ -28,9 +28,9 @@ My work focuses on evidence, constraints, security and usable interfaces—not j
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./spylean-toolchain-v1-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./spylean-toolchain-v1-light.svg" />
-    <img src="./spylean-toolchain-v1-dark.svg" width="100%" alt="SPYLEAN engineering toolchain across product development, AI, data and deployment" />
+    <source media="(prefers-color-scheme: dark)" srcset="./spylean-toolchain-v2-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./spylean-toolchain-v2-light.svg" />
+    <img src="./spylean-toolchain-v2-dark.svg" width="100%" alt="SPYLEAN engineering toolchain with large official technology logos across product development, AI, data and design" />
   </picture>
 </p>
 
