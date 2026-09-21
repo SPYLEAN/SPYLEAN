@@ -24,13 +24,23 @@ I’m **Tanvir Aditya Bayi**, a B.Tech Computer Science student and creative tec
 
 My work focuses on evidence, constraints, security and usable interfaces—not just demos that look convincing. I’m also the founder of [CFORGE](https://cforge-studio.vercel.app/), where I work across technology, creative direction and product execution.
 
-## Current signal
+## Toolchain
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./spylean-signal-v2-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./spylean-signal-v2-light.svg" />
-    <img src="./spylean-signal-v2-dark.svg" width="100%" alt="SPYLEAN public GitHub snapshot for September 2026" />
+    <source media="(prefers-color-scheme: dark)" srcset="./spylean-toolchain-v1-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./spylean-toolchain-v1-light.svg" />
+    <img src="./spylean-toolchain-v1-dark.svg" width="100%" alt="SPYLEAN engineering toolchain across product development, AI, data and deployment" />
+  </picture>
+</p>
+
+## Live engineering proof
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./spylean-signal-v3-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./spylean-signal-v3-light.svg" />
+    <img src="./spylean-signal-v3-dark.svg" width="100%" alt="Automatically refreshed public GitHub evidence for SPYLEAN" />
   </picture>
 </p>
 
@@ -68,23 +78,6 @@ My work focuses on evidence, constraints, security and usable interfaces—not j
 
 - [**LETMEIN**](https://letme-in.vercel.app/) — product and booking experience
 - [**Vertex × Cozyan**](https://vertex-cozyan-site.vercel.app/) — gaming lounge and café platform
-
-## Stack
-
-<p>
-  <kbd>Python</kbd>
-  <kbd>TypeScript</kbd>
-  <kbd>JavaScript</kbd>
-  <kbd>React</kbd>
-  <kbd>Next.js</kbd>
-  <kbd>FastAPI</kbd>
-  <kbd>Node.js</kbd>
-  <kbd>SQL</kbd>
-  <kbd>Applied ML</kbd>
-  <kbd>Geospatial</kbd>
-  <kbd>Simulation</kbd>
-  <kbd>Data Systems</kbd>
-</p>
 
 ---
 
