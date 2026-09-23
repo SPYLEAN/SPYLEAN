@@ -77,7 +77,7 @@
   <text x="594" y="222" class="eyebrow">ACTIVITY</text>
   <text x="594" y="266" class="number">196</text><text x="594" y="286" class="label">CONTRIBUTIONS / YEAR</text>
   <line x1="594" y1="303" x2="726" y2="303" stroke="#30363d"/>
-  <text x="594" y="330" class="strong">1 day</text><text x="594" y="347" class="micro">CURRENT STREAK</text>
+  <text x="594" y="330" class="strong">0 days</text><text x="594" y="347" class="micro">CURRENT STREAK</text>
   <text x="594" y="373" class="strong">4 days</text><text x="594" y="390" class="micro">BEST / YEAR</text>
 
   <rect x="770" y="194" width="400" height="202" rx="10" fill="#161b22" stroke="#30363d"/>
@@ -96,5 +96,5 @@
   <rect x="30" y="414" width="1140" height="40" rx="8" fill="#161b22" stroke="#30363d"/>
   <line x1="30" y1="414" x2="1170" y2="414" stroke="#58a6ff" stroke-width="2" class="scan"/>
   <text x="52" y="439" class="strong">PUBLIC DATA · AUTO-GENERATED · NO SELF-REPORTED COUNTS</text>
-  <text x="1148" y="439" class="micro right">UPDATED 23 SEPT 2026 · IST</text>
+  <text x="1148" y="439" class="micro right">UPDATED 24 SEPT 2026 · IST</text>
   </svg>
