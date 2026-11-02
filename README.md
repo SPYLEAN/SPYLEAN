@@ -1,102 +1,122 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./spylean-identity-v6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./spylean-identity-v6-light.svg" />
-    <img src="./spylean-identity-v6-dark.svg" width="100%" alt="SPYLEAN identity system — Tanvir Aditya Bayi, product builder and creative technologist" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./spylean-identity-v8-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./spylean-identity-v8-light.svg">
+  <img alt="SPYLEAN identity console" src="./spylean-identity-v8-dark.svg" width="100%">
+</picture>
 
 <p align="center">
-  <a href="https://spylean-portfolio.vercel.app/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://cforge-studio.vercel.app/">CFORGE</a>
-  &nbsp;·&nbsp;
-  <a href="https://circuitclub.in/">Circuit Club</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/tanvir-aditya-bayi-7a6177304/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/@SPYLEAN">YouTube</a>
-  &nbsp;·&nbsp;
+  <a href="https://spylean-portfolio.vercel.app/">Portfolio</a> ·
+  <a href="https://github.com/SPYLEAN/HALT-CyberForge-Final">HALT</a> ·
+  <a href="https://forge-ai-two-orpin.vercel.app">FORGE AI</a> ·
+  <a href="https://cforge-studio.vercel.app/">CFORGE</a> ·
+  <a href="https://circuitclub.in/">Circuit Club</a> ·
+  <a href="https://www.linkedin.com/in/tanvir-aditya-bayi-7a6177304/">LinkedIn</a> ·
   <a href="mailto:bayitanviraditya@gmail.com">Email</a>
 </p>
 
 ## About
 
-I’m **Tanvir Aditya Bayi**, a B.Tech Computer Science student and creative technologist from Bengaluru. I build full-stack products across applied AI, data systems, games and real-world culture.
+I’m **Tanvir Aditya Bayi** — a B.Tech Computer Science student, product engineer and creative technologist from Bengaluru. I build evidence-backed cybersecurity systems, adaptive AI products, optimisation engines, games and real-world experiences.
 
-I care about useful interfaces, honest engineering and products people can actually experience—not just demos that look convincing. I’m the founder of [CFORGE](https://cforge-studio.vercel.app/) and co-founder of [Circuit Club](https://circuitclub.in/), where two friends and I are building recurring offline experiences for Bengaluru’s movement, music and creator culture.
+My current flagship is **HALT**, a CyberForge 2026 finalist project for proof-carrying cyber investigation. I also build through **CFORGE**, co-founded **Circuit Club**, and keep translating ambitious ideas into systems people can inspect, use and trust.
 
-## Toolchain
+## Engineering toolchain
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./spylean-toolchain-v2-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./spylean-toolchain-v2-light.svg" />
-    <img src="./spylean-toolchain-v2-dark.svg" width="100%" alt="SPYLEAN engineering toolchain with large official technology logos across product development, AI, data and design" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./spylean-toolchain-v2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./spylean-toolchain-v2-light.svg">
+  <img alt="SPYLEAN engineering toolchain" src="./spylean-toolchain-v2-dark.svg" width="100%">
+</picture>
 
 ## Live engineering proof
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./spylean-live-v3-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./spylean-live-v3-light.svg">
+  <img alt="SPYLEAN live GitHub engineering statistics" src="./spylean-live-v3-dark.svg" width="100%">
+</picture>
+
+<sub>Updated automatically by GitHub Actions. Activity is shown as engineering proof, not as a vanity score.</sub>
+
+## Current operating map
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./spylean-operations-v8-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./spylean-operations-v8-light.svg">
+  <img alt="SPYLEAN current projects and capability matrix" src="./spylean-operations-v8-dark.svg" width="100%">
+</picture>
+
+## Project index
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./spylean-signal-v3-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./spylean-signal-v3-light.svg" />
-    <img src="./spylean-signal-v3-dark.svg" width="100%" alt="Automatically refreshed public GitHub evidence for SPYLEAN" />
-  </picture>
+  <a href="https://github.com/SPYLEAN/HALT-CyberForge-Final"><img src="https://img.shields.io/badge/01-HALT-0969da?style=flat-square" alt="HALT"></a>
+  <a href="https://forge-ai-two-orpin.vercel.app"><img src="https://img.shields.io/badge/02-FORGE_AI-0969da?style=flat-square" alt="FORGE AI"></a>
+  <a href="https://github.com/SPYLEAN/routeweigh"><img src="https://img.shields.io/badge/03-RouteWeigh-0969da?style=flat-square" alt="RouteWeigh"></a>
+  <a href="https://rankrascal.lol/"><img src="https://img.shields.io/badge/04-Rascal_Realms-0969da?style=flat-square" alt="Rascal Realms"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/SPYLEAN/Varuna-maritime"><img src="https://img.shields.io/badge/05-VARUNA-238636?style=flat-square" alt="VARUNA"></a>
+  <a href="https://github.com/SPYLEAN/KYNTRA"><img src="https://img.shields.io/badge/06-KYNTRA-238636?style=flat-square" alt="KYNTRA"></a>
+  <a href="https://github.com/SPYLEAN/datathon-2026"><img src="https://img.shields.io/badge/07-KANNU-238636?style=flat-square" alt="KANNU"></a>
+  <a href="https://github.com/SPYLEAN/Crowd-flow-optimizer"><img src="https://img.shields.io/badge/08-VenuePulse_AI-238636?style=flat-square" alt="VenuePulse AI"></a>
+</p>
+<p align="center">
+  <a href="https://circuitclub.in/"><img src="https://img.shields.io/badge/09-Circuit_Club-6e7781?style=flat-square" alt="Circuit Club"></a>
+  <a href="https://dinescope.vercel.app/"><img src="https://img.shields.io/badge/10-DineScope-6e7781?style=flat-square" alt="DineScope"></a>
+  <a href="https://letme-in.vercel.app/"><img src="https://img.shields.io/badge/11-LETMEIN-6e7781?style=flat-square" alt="LETMEIN"></a>
+  <a href="https://vertex-cozyan-site.vercel.app/"><img src="https://img.shields.io/badge/12-Vertex_×_Cozyan-6e7781?style=flat-square" alt="Vertex × Cozyan"></a>
 </p>
 
-## Selected engineering work
+## Flagship engineering
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./spylean-operations-v6-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./spylean-operations-v6-light.svg" />
-    <img src="./spylean-operations-v6-dark.svg" width="100%" alt="SPYLEAN current products and engineering capabilities" />
-  </picture>
-</p>
+### [HALT — Proof-Carrying Kill Chain Intelligence](https://github.com/SPYLEAN/HALT-CyberForge-Final)
 
-<p align="center">
-  <a href="https://circuitclub.in/"><kbd>01 · Circuit Club ↗</kbd></a>
-  &nbsp;
-  <a href="https://rankrascal.lol/"><kbd>02 · Rascal Realms ↗</kbd></a>
-  &nbsp;
-  <a href="https://dinescope.vercel.app/"><kbd>03 · DineScope ↗</kbd></a>
-  &nbsp;
-  <a href="https://github.com/SPYLEAN/Varuna-maritime"><kbd>04 · VARUNA ↗</kbd></a>
-  <br /><br />
-  <a href="https://github.com/SPYLEAN/KYNTRA"><kbd>05 · KYNTRA ↗</kbd></a>
-  &nbsp;
-  <a href="https://github.com/SPYLEAN/datathon-2026"><kbd>06 · KANNU ↗</kbd></a>
-  &nbsp;
-  <a href="https://letme-in.vercel.app/"><kbd>07 · LETMEIN ↗</kbd></a>
-  &nbsp;
-  <a href="https://vertex-cozyan-site.vercel.app/"><kbd>08 · Vertex × Cozyan ↗</kbd></a>
-</p>
+An evidence-backed cyber investigation platform for streaming log ingestion, provenance-aware correlation and reproducible case building. HALT separates observed facts from inference, attaches proof receipts to claims, and withholds conclusions when evidence is unreliable.
 
-### Building now
+<code>Next.js</code> <code>TypeScript</code> <code>FastAPI</code> <code>DuckDB</code> <code>Parquet</code> <code>Three.js</code> <code>Playwright</code>
 
-- [**Rascal Realms: Crownfall**](https://rankrascal.lol/) — a 1–4 player Roblox co-op action-mystery RPG in pre-production; investigate contradictions, accuse the lie and survive the world’s correction
-- [**VARUNA**](https://github.com/SPYLEAN/Varuna-maritime) — evidence-aware maritime oil-spill investigation using SAR, OpenDrift and AIS analysis
-- [**KYNTRA**](https://github.com/SPYLEAN/KYNTRA) — predictive racecraft, telemetry and energy decision intelligence
+### [FORGE AI — Adaptive Coding Partner](https://forge-ai-two-orpin.vercel.app) · [Source](https://github.com/SPYLEAN/forge-ai)
 
-### Deployed product work
+A guarded coding partner built around **Imprint → Assign → Orchestrate → Verify → Learn**. Architect, Builder, Critic and Witness perspectives turn a request into inspected work while learning from feedback.
 
-- [**Circuit Club**](https://circuitclub.in/) — a Bengaluru culture and experience platform, co-founded with two collaborators; movement, music, creators and brands meet through limited offline “Drops”
-- [**DineScope**](https://dinescope.vercel.app/) — restaurant discovery with aspect-level review sentiment for food, service, ambience and value
-- [**LETMEIN**](https://letme-in.vercel.app/) — product and booking experience
-- [**Vertex × Cozyan**](https://vertex-cozyan-site.vercel.app/) — gaming lounge and café platform
+<code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Cloudflare Workers AI</code> <code>RLS</code>
 
-### More engineering systems
+### [RouteWeigh](https://github.com/SPYLEAN/routeweigh)
 
-- [**KANNU**](https://github.com/SPYLEAN/datathon-2026) — explainable crime-intelligence and case operations
-- [**VenuePulse AI**](https://github.com/SPYLEAN/Crowd-flow-optimizer) — crowd-flow prediction and operator-guided incident response
-- [**Sentinel Memory**](https://github.com/SPYLEAN/Sentinel-memory) — operational memory and recommendations for complex venues
+A multi-objective itinerary optimiser that balances cost, time and carbon constraints instead of returning a single opaque route.
 
----
+<code>React</code> <code>FastAPI</code> <code>OR-Tools</code> <code>SQLite/PostgreSQL</code>
+
+### [Rascal Realms: Crownfall](https://rankrascal.lol/) · [Source](https://github.com/SPYLEAN/Rank-Rascal)
+
+A Roblox co-op action-mystery RPG in development, built around investigation, world systems and shared progression.
+
+<code>Roblox Studio</code> <code>Luau</code> <code>Game Systems</code> <code>World Design</code>
+
+## Applied intelligence systems
+
+- **[VARUNA](https://github.com/SPYLEAN/Varuna-maritime)** — maritime anomaly intelligence with explainable geospatial risk.
+- **[KYNTRA](https://github.com/SPYLEAN/KYNTRA)** — predictive racecraft, telemetry and energy decision intelligence.
+- **[KANNU](https://github.com/SPYLEAN/datathon-2026)** — explainable crime intelligence and case operations.
+- **[VenuePulse AI](https://github.com/SPYLEAN/Crowd-flow-optimizer)** — crowd-flow prediction and operator-guided incident response.
+- **[Sentinel Memory](https://github.com/SPYLEAN/Sentinel-memory)** — operational memory and recommendations for complex venues.
+
+## Products in the world
+
+- **[Circuit Club](https://circuitclub.in/)** — a Bengaluru culture-and-experience platform co-founded with two collaborators.
+- **[DineScope](https://dinescope.vercel.app/)** — restaurant discovery with aspect-level review sentiment.
+- **[LETMEIN](https://letme-in.vercel.app/)** — a deployed product and booking experience.
+- **[Vertex × Cozyan](https://vertex-cozyan-site.vercel.app/)** — a shipped gaming-lounge and café platform.
 
 ## Open channel
 
-I’m open to **software engineering, AI/ML and creative technology internships**, as well as ambitious product collaborations. If the problem is interesting and the outcome needs to be thoughtful, [start a conversation](mailto:bayitanviraditya@gmail.com).
+I’m open to internships and collaborative work across **software engineering, cybersecurity, full-stack products, AI/ML and product engineering**.
 
-<sub>Bengaluru, India · Research → systems → shipped work</sub>
+<p align="center">
+  <a href="mailto:bayitanviraditya@gmail.com"><strong>Start a conversation</strong></a>
+  ·
+  <a href="https://www.linkedin.com/in/tanvir-aditya-bayi-7a6177304/">LinkedIn</a>
+  ·
+  <a href="https://spylean-portfolio.vercel.app/">Portfolio</a>
+</p>
+
