@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://spylean-portfolio.vercel.app/">Portfolio</a> ·
+  <a href="https://spylean.vercel.app/">Portfolio</a>
   <a href="https://github.com/SPYLEAN/HALT-CyberForge-Final">HALT</a> ·
   <a href="https://forge-ai-two-orpin.vercel.app">FORGE AI</a> ·
   <a href="https://cforge-studio.vercel.app/">CFORGE</a> ·
@@ -117,6 +117,6 @@ I’m open to internships and collaborative work across **software engineering, 
   ·
   <a href="https://www.linkedin.com/in/tanvir-aditya-bayi-7a6177304/">LinkedIn</a>
   ·
-  <a href="https://spylean-portfolio.vercel.app/">Portfolio</a>
+  <a href="https://spylean.vercel.app/">Portfolio</a>
 </p>
 
